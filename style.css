@@ -1,11 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
+    height: 100vh; 
+    margin:2% 25%;
 }
 
 .expense-tracker {
